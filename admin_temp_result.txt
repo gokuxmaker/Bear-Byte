@@ -1,0 +1,3 @@
+Core (Tctl/Tdie) = 0.0
+Core (Tctl/Tdie) = 0.0
+Core (Tctl/Tdie) = 0.0

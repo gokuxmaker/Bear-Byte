@@ -1,0 +1,8 @@
+psutil>=5.9.0
+bleak>=0.21.0
+pyserial>=3.5
+GPUtil>=1.4.0
+customtkinter>=6.0.0
+darkdetect>=0.8.0
+rich>=13.0.0
+pyinstaller>=6.0.0
