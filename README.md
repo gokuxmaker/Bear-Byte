@@ -1,4 +1,5 @@
 # Cute Bear PC Resource Monitor ʕ•ᴥ•ʔ
+<img width="1448" height="1086" alt="f4d9231f-f38c-4f70-af54-e763f148fd1d" src="https://github.com/user-attachments/assets/e8ea7bb5-4451-44f1-b25d-38ff1469d9be" />
 
 A modern PC Hardware Resource Monitor designed for the **Seeed Studio XIAO ESP32-S3 Plus** with the **1.47" Touch Display** (172 x 320 IPS) housed in a custom 3D-printed cute bear desk enclosure.
 
